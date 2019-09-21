@@ -27,7 +27,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 The following is the sketches I created. 
-[![image](https://wenleicao/wenleicao.github.io/images/data_visualization/sketch.PNG)]
+[![image](https://wenleicao.github.io/images/data_visualization/sketch.PNG)]
 
 Left 1 chart, create massachusetts geoshape and map it to its county. This set a stage for later visualization
 left 2 chart,  total crime distribuation in different city
