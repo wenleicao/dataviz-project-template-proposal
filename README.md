@@ -13,22 +13,30 @@ I’ve created a proof of concept visualization of this data. It's a ... and it 
 
 [![image](https://wenleicao.github.io/images/data_visualization/scatter_chart.PNG)](https://beta.vizhub.com/wenleicao/acaf86b2f8ea488e87b3c1e47f79ca38)
 
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * Massachusett community type  (map chart)
+ * how crime are distributed across Massachusett? (map chart, total crime count, color  based on number)
+ * how crime are distributed after weighted by population?  (using total crime count/ population,  color based on number)
+ * 100% stacked column chart show crime difference between different commnity type.
+ * Scatter chart between population and crime number, color by city
+ * interactive chart, when choose area, community type, top 3 /botton 3 city show on the map (this will help people make decision)
 
 ## Sketches
+The following is the sketches I created. 
+[![image](https://wenleicao/wenleicao.github.io/images/data_visualization/sketch.PNG)]
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+Left 1 chart, create massachusetts geoshape and map it to its county. This set a stage for later visualization
+left 2 chart,  total crime distribuation in different city
+left 3 chart,  total crime count/population in different city (this will eliminate population factor)
+right 1 chart,  different communtiy (city, suburb and rural differnece vs differnt type of crime )
+right 2 chart,  Scatter chart, can compare between cities, same level of population, how high the crime count is.
+right 3 chart,  linked chart, user can choose county and communtiy type to choose upper 3 or bottom 3 crime count city. 
+
 
 ## Open Questions
+I have not loaded Massachusetts map yet. that is a challenge ahead.  the other challenge how to map city and county to the map
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
