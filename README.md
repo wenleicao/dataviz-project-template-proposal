@@ -2,13 +2,16 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is Massachusetts Crime dataset
+you can download the original file [here](https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/tables/table-6/table-6-state-cuts/massachusetts.xls/output.xls)
 
 ## Prototypes
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://beta.vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+[![image](https://wenleicao.github.io/images/data_visualization/stacked_column.PNG)](https://beta.vizhub.com/wenleicao/4d191e28467d4533ab4a1eacf8d7aaf1)
+
+[![image](https://wenleicao.github.io/images/data_visualization/scatter_chart.PNG)](https://beta.vizhub.com/wenleicao/acaf86b2f8ea488e87b3c1e47f79ca38)
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
 
