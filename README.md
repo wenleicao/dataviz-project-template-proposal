@@ -22,7 +22,7 @@ The following tasks and questions will drive the visualization and interaction d
 *	How crime are distributed after weighted by population? (using total crime count/ population, color based on number)
 *	100% stacked column chart show crime difference between different community types.
 *	Scatter chart between population and crime number, color by city
-*	interactive chart, when choose area, community type (in the form of menu instead of checkbox), top 10 /bottom 10 cities show on the map (this will help people make decision)
+*	interactive chart, when choose area, community type (in the form of menu instead of checkbox), top 10 /bottom 10 cities in selected area or community will show on the map (this will help people make decision)
 
 
 ## Sketches
