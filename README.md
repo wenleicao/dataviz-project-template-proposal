@@ -43,7 +43,7 @@ I have not been able to successfully load Massachusetts map yet.  I need to find
 Another challenge is to filter the chart when user choose a value.  
 
 ## Schedule of Deliverables
-1-2 wk  I will complete R1 and R2 and also try to load map 
-3-4 wk  complete L1, L2, L3, R3
-5wk     finalize
+* 1-2 wk  I will complete R1 and R2 and also try to load map 
+* 3-4 wk  complete L1, L2, L3, R3
+* 5wk     finalize
 
