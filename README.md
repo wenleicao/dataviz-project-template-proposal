@@ -17,12 +17,12 @@ I’ve created a proof of concept visualization of this data. It's a ... and it 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
-•	Massachusetts community type (map chart)
-•	How crime are distributed across Massachusetts? (map chart, total crime count, color based on number)
-•	How crime are distributed after weighted by population? (using total crime count/ population, color based on number)
-•	100% stacked column chart show crime difference between different community types.
-•	Scatter chart between population and crime number, color by city
-•	interactive chart, when choose area, community type, top 3 /bottom 3 city show on the map (this will help people make decision)
+*	Massachusetts community type (map chart)
+*	How crime are distributed across Massachusetts? (map chart, total crime count, color based on number)
+*	How crime are distributed after weighted by population? (using total crime count/ population, color based on number)
+*	100% stacked column chart show crime difference between different community types.
+*	Scatter chart between population and crime number, color by city
+*	interactive chart, when choose area, community type (in the form of menu instead of checkbox), top 10 /bottom 10 cities show on the map (this will help people make decision)
 
 
 ## Sketches
@@ -42,4 +42,8 @@ I have not been able to successfully load Massachusetts map yet.  I need to find
  The other challenge how to map city and county to the map
 Another challenge is to filter the chart when user choose a value.  
 
+## Schedule of Deliverables
+1-2 wk  I will complete R1 and R2 and also try to load map 
+3-4 wk  complete L1, L2, L3, R3
+5wk     finalize
 
