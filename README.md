@@ -39,8 +39,8 @@ Right 3 chart, linked chart, user can choose county and community type to choose
 
 ## Open Questions
 I have not been able to successfully load Massachusetts map yet.  I need to find shape file.
- The other challenge how to map city and county to the map
-Another challenge is to filter the chart when user choose a value.  
+Another challenge is how to map city and county to the map
+Third challenge is to filter the chart when user choose a value.  
 
 ## Schedule of Deliverables
 * 1-2 wk  I will complete R1 and R2 and also try to load map 
