@@ -7,7 +7,7 @@ you can download the original file [here](https://ucr.fbi.gov/crime-in-the-u.s/2
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's 100% stacked column chart and scatter chart, which show crime differnece between different communities in Massachusetts.
 
 [![image](https://wenleicao.github.io/images/data_visualization/stacked_column.PNG)](https://beta.vizhub.com/wenleicao/4d191e28467d4533ab4a1eacf8d7aaf1)
 
