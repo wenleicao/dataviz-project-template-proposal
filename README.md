@@ -17,26 +17,29 @@ I’ve created a proof of concept visualization of this data. It's a ... and it 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
+•	Massachusetts community type (map chart)
+•	How crime are distributed across Massachusetts? (map chart, total crime count, color based on number)
+•	How crime are distributed after weighted by population? (using total crime count/ population, color based on number)
+•	100% stacked column chart show crime difference between different community types.
+•	Scatter chart between population and crime number, color by city
+•	interactive chart, when choose area, community type, top 3 /bottom 3 city show on the map (this will help people make decision)
 
- * Massachusett community type  (map chart)
- * how crime are distributed across Massachusett? (map chart, total crime count, color  based on number)
- * how crime are distributed after weighted by population?  (using total crime count/ population,  color based on number)
- * 100% stacked column chart show crime difference between different commnity type.
- * Scatter chart between population and crime number, color by city
- * interactive chart, when choose area, community type, top 3 /botton 3 city show on the map (this will help people make decision)
 
 ## Sketches
 The following is the sketches I created. 
 [![image](https://wenleicao.github.io/images/data_visualization/sketch.PNG)]
 
-Left 1 chart, create massachusetts geoshape and map it to its county. This set a stage for later visualization
-left 2 chart,  total crime distribuation in different city
-left 3 chart,  total crime count/population in different city (this will eliminate population factor)
-right 1 chart,  different communtiy (city, suburb and rural differnece vs differnt type of crime )
-right 2 chart,  Scatter chart, can compare between cities, same level of population, how high the crime count is.
-right 3 chart,  linked chart, user can choose county and communtiy type to choose upper 3 or bottom 3 crime count city. 
+Left 1 chart, create Massachusetts geoshape and map it to its county. This set a stage for later visualization 
+left 2 chart, total crime distribution in different city 
+left 3 chart, total crime count/population in different city (this will eliminate population factor) 
+right 1 chart, different community (city, suburb and rural difference vs. different type of crime) 
+right 2 chart, Scatter chart, can compare between cities, same level of population, how high the crime count is. 
+Right 3 chart, linked chart, user can choose county and community type to choose upper 3 or bottom 3 crime count city.
 
 
 ## Open Questions
-I have not loaded Massachusetts map yet. that is a challenge ahead.  the other challenge how to map city and county to the map
+I have not been able to successfully load Massachusetts map yet.  I need to find shape file.
+ The other challenge how to map city and county to the map
+Another challenge is to filter the chart when user choose a value.  
+
 
