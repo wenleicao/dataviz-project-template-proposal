@@ -71,7 +71,7 @@ Following the sequence of proposed chart implementation from left to right
 
 ## Future Work
 
-* add circle size legend to some of map, which make user to compare the value
+* add circle size legend to some of map, which make user easier to compare the value
 * Combine all visual in one page to tell a story
 
 
