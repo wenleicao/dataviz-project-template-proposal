@@ -49,6 +49,8 @@ Third challenge is to filter the chart when user choose a value.
 
 ## Result of Implementation
 
-Following the sequence of proposal from left to right
-Massachusetts county choropleth map. This help user understand county boundry and select proper region. You will be surprised how little you know the county name.  For me, a resident of massachusetts for 8 years. Some of county names are new to me. This map have interactive legend, which dynamically highlights the county when you hove mouse over the legend.
+Following the sequence of proposal from left to right  
+
+* Massachusetts county choropleth map. This help user understand county boundry and select proper region. You will be surprised how little you know the county name.  For me, a resident of massachusetts for 8 years. Some of county names are new to me. This map have interactive legend, which dynamically highlights the county when you hove mouse over the legend.  
+[![image](https://github.com/wenleicao/wenleicao.github.io/blob/master/images/data_visualization/final/Chrolopleth%20map.PNG)](https://beta.vizhub.com/wenleicao/7c20a38e22d8485392c673c005794ad8)
 
