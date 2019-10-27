@@ -17,9 +17,9 @@ I’ve created a proof of concept visualization of this data. It's 100% stacked 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
-*	Massachusetts community type (map chart)
-*	How crime are distributed across Massachusetts? (map chart, total crime count, color based on number)
-*	How crime are distributed after weighted by population? (using total crime count/ population, color based on number)
+*	Massachusetts county map (map chart)
+*	How crime are distributed across Massachusetts? (map chart, total crime count, size based on number)
+*	How crime are distributed after weighted by population? (using total crime count/ population, size based on number)
 *	100% stacked column chart show crime difference between different community types.
 *	Scatter chart between population and crime number, color by city
 *	interactive chart, when choose area, community type (in the form of menu instead of checkbox), top 5 /bottom 5 cities in selected area or community will show on the map (this will help people make decision)
