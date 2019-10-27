@@ -3,7 +3,7 @@
 ## Data
 
 The data I propose to visualize for my project is Massachusetts Crime dataset
-you can download the original file [here](https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/tables/table-6/table-6-state-cuts/massachusetts.xls/output.xls)
+you can download the original file [here](https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/tables/table-6/table-6-state-cuts/massachusetts.xls)
 
 ## Prototypes
 
